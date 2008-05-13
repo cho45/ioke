@@ -1,0 +1,8 @@
+Foo := "Foo"
+
+desc "foobar"
+task foo (
+	"aaa" println
+	Foo println
+)
+
